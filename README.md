@@ -31,6 +31,7 @@
 ![FAST API](https://img.shields.io/badge/FASTAPI-090909??style=flat-square&logo=FASTAPI)
 ![DOCKER](https://img.shields.io/badge/DOCKER-090909??style=flat-square&logo=DOCKER)
 ![YAML](https://img.shields.io/badge/YAML-090909??style=flat-square&logo=YAML)
+![JUPITER](https://img.shields.io/badge/JUPITER-090909??style=flat-square&logo=JUPITER)
 
 ## ПРОЕКТЫ
 
