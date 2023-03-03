@@ -1,6 +1,6 @@
 # Leonid1525
 
-## ABOUT ME
+## ОБО МНЕ
 
 Я заинтересовался миром Data Science летом 2022 года. Мой интерес обусловлен личным проектом, в котором научным методом необходимо найти вещество, обладающее определенными химическими и физическими свойствами. Сначала узнал какой язык программирования лучше всего подходит для DS. Конечно же это был язык Python. Немного изучив материалы, я пошел учиться на курс [StartML](https://karpov.courses/ml-start), в Karpov.courses. Пройдя половину курса, я понял что должен дополнительно изучить инструмент для развертки и масштабирования [Docker](https://karpov.courses/docker). 
 
@@ -32,18 +32,18 @@
 ![DOCKER](https://img.shields.io/badge/DOCKER-090909??style=flat-square&logo=DOCKER)
 ![YAML](https://img.shields.io/badge/YAML-090909??style=flat-square&logo=YAML)
 
-## PROJECTS
+## ПРОЕКТЫ
 
 [![RECOMENDATIONS_SYSTEM](https://img.shields.io/badge/RECOMENDATIONS_SYSTEM-090909??style=flat-square&logo=RECOMENDATIONS_SYSTEM)](https://github.com/leonid1525/Recomendations_system)
 
-## EDUCATIONS
+## ОБРАЗОВАНИЕ
 
-|                           Courses                           | Start date - End date |
-|:-----------------------------------------------------------:|:---------------------:|
-|                           StartML                           |   09.2022 - 04.2023   |
-|                        DOCKER С НУЛЯ                        |   01.2023 - 02.2023   |
+|     Курсы     |  Начало - Конец   |
+|:-------------:|:-----------------:|
+|    StartML    | 09.2022 - 04.2023 |
+| DOCKER С НУЛЯ | 01.2023 - 02.2023 |
 
-## CONTACTS
+## КОНТАКТЫ
 
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-090909??style=flat-square&logo=TELEGRAM)](https://t.me/Leonid1525)
 [![DISCORD](https://img.shields.io/badge/DISCORD-090909??style=flat-square&logo=DISCORD)](https://discordapp.com/users/462286524852076544/)
