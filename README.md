@@ -35,7 +35,7 @@
 
 ## ПРОЕКТЫ
 
-[![RECOMENDATIONS_SYSTEM](https://img.shields.io/badge/RECOMENDATIONS_SYSTEM-090909??style=flat-square&logo=RECOMENDATIONS_SYSTEM)](https://github.com/leonid1525/Recomendations_system)
+[![RECOMMENDATIONS_SYSTEM](https://img.shields.io/badge/RECOMMENDATIONS_SYSTEM-090909??style=flat-square&logo=RECOMMENDATIONS_SYSTEM)](https://github.com/leonid1525/Recomendations_system)
 
 ## ОБРАЗОВАНИЕ
 
