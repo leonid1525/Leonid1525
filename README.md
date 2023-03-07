@@ -26,12 +26,15 @@
 ![SEABORN](https://img.shields.io/badge/SEABORN-090909??style=flat-square&logo=seaborn)
 ![MATPLOTLIB](https://img.shields.io/badge/MATPLOTLIB-090909??style=flat-square&logo=MATPLOTLIB)
 ![CATBOOST](https://img.shields.io/badge/CATBOOST-090909??style=flat-square&logo=CATBOOST)
+![XGBOOST](https://img.shields.io/badge/XGBOOST-090909??style=flat-square&logo=XGBOOST)
+![LIGHTGBM](https://img.shields.io/badge/LIGHTGBM-090909??style=flat-square&logo=LIGHTGBM)
 ![PANDAS](https://img.shields.io/badge/PANDAS-090909??style=flat-square&logo=PANDAS)
 ![AIRFLOW](https://img.shields.io/badge/AIRFLOW-090909??style=flat-square&logo=AIRFLOW)
 ![FAST API](https://img.shields.io/badge/FASTAPI-090909??style=flat-square&logo=FASTAPI)
 ![DOCKER](https://img.shields.io/badge/DOCKER-090909??style=flat-square&logo=DOCKER)
 ![YAML](https://img.shields.io/badge/YAML-090909??style=flat-square&logo=YAML)
 ![JUPITER](https://img.shields.io/badge/JUPITER-090909??style=flat-square&logo=JUPITER)
+![EDA](https://img.shields.io/badge/EDA-090909??style=flat-square&logo=EDA)
 
 ## ПРОЕКТЫ
 
