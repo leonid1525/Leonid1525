@@ -2,15 +2,15 @@
 
 ## ПРОЕКТЫ
 
-[![Recommendations_system](https://img.shields.io/badge/RECOMMENDATIONS_SYSTEM-090909??style=flat-square&logo=Recommendations_system)](https://github.com/leonid1525/Recomendations_system)
+[![Recommendations_system](https://img.shields.io/badge/Recommendations_system-090909??style=flat-square&logo=Recommendations_system)](https://github.com/leonid1525/Recomendations_system)
 
 Приложение-сервис отображения постов, пользователей и их действий, а также рекомендаций постов, на основе предпочтений пользователей и информации о постах, для вымышленной социальной сети. Ознакомиться с проектом можно по ссылке https://github.com/leonid1525/Recommendations_system.
 
-[![Securities_value_forecasting_system](https://img.shields.io/badge/SECURITIES_VALUE_FORECASTING_SYSTEM-090909??style=flat-square&logo=Securities_value_forecasting_system)](https://github.com/leonid1525/Securities_value_forecasting_system)
+[![Securities_value_forecasting_system](https://img.shields.io/badge/Securities_value_forecasting_system-090909??style=flat-square&logo=Securities_value_forecasting_system)](https://github.com/leonid1525/Securities_value_forecasting_system)
 
 Приложение на основе исторических котировок прогнозирующее стоимость акций биржевого паевого инвестиционного фонда "Тинькофф Вечный портфель RUB". На данный момент программа находится на ранних этапах разработки. Ознакомиться с проектом можно по ссылке https://github.com/leonid1525/Securities_value_forecasting_system.
 
-[![Research_on_cat_food](https://img.shields.io/badge/SECURITIES_VALUE_FORECASTING_SYSTEM-090909??style=flat-square&logo=Research_on_cat_food)](https://github.com/leonid1525/research_on_cat_food)
+[![Research_on_cat_food](https://img.shields.io/badge/Research_on_cat_food-090909??style=flat-square&logo=Research_on_cat_food)](https://github.com/leonid1525/research_on_cat_food)
 
 Исследую корма с помощью Python для выбора оптимального по цене и качеству корма для приюта. Ознакомиться с проектом можно по ссылке https://github.com/leonid1525/research_on_cat_food.
 
@@ -57,7 +57,9 @@
 |     Курсы     |  Начало - Конец   |
 |:-------------:|:-----------------:|
 |    StartML    | 09.2022 - 04.2023 |
-| DOCKER С НУЛЯ | 01.2023 - 02.2023 |
+| DOCKER С НУЛЯ | 2023 - 2023 |
+| Основы статистики | 2023 - 2023 |
+| Анализ данных в R. 2 Части | 2023 - 2023 |
 
 ## КОНТАКТЫ
 
